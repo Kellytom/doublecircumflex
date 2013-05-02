@@ -1,3 +1,5 @@
+# Double circumflex
+
 ## Proposing to reserve special characters "^^". Use them to replace tabs in outlines.  
 
 #### From outline to plaintext and back.
