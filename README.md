@@ -10,7 +10,7 @@ Why is this even necessary? Because when Markdown and Multimarkdown editors open
 
 Plain text outlines can be imported and exported from many outlining apps, but they don't play well with markdown editors.
 
-I propose using `^^` as a marker for the tab character in markdown or multimarkdown documents.
+I propose using `^^` or `..` as a marker for the tab character in markdown or multimarkdown documents.
 
 One can convert from an outline to a plain text (or markdown) document for readability. On the other hand, one can convert from a markdown document to an outline by changing the double circumflex `^^` to tab characters. The tab character is not available on the iPhone keyboard. Making a file in an outline format often requires the tab character.
 
@@ -82,6 +82,11 @@ Example Outline:
 ^^^^ sub point a  
 ^^^^ sub point b  
 
+or
+.. point one  
+.. point two  
+.... sub point a  
+.... sub point b  
 
 So replace ^^ with tab to convert to outline format, and  
 replace tab with ^^ to convert to Markdown.
