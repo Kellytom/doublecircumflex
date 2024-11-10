@@ -1,7 +1,8 @@
 # Double circumflex
 
 ## Proposing to reserve special characters "^^". Use them to replace tabs in outlines. See Taskpaper. 
-## This same substitution could be used to solve the blank line before and HTML problem as well. 
+## This same substitution Might be used to solve the blank line before and after HTML problem as well. 
+
 Taskpaper
 
 #### From outline to plaintext and back.
@@ -105,5 +106,5 @@ test OL.txt  (contains tabs)
 test MD.txt (contains ^^) or  
 test MMD.txt (contains ^^)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTMyNTc0NTYsNTgzOTgwNjVdfQ==
+eyJoaXN0b3J5IjpbLTI3NTczMTk2NCw1ODM5ODA2NV19
 -->
