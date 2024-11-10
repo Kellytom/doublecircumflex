@@ -74,7 +74,7 @@ critic markup already uses:
 
 That leaves ^^ or __ for outline.
 
-#### The double circumflex or double seems to be the best option left for a two character marker for tab.
+#### The double circumflex or double underscore seems to be the best option left for a two character marker for tab.
 
 Example Outline:  
 
@@ -89,8 +89,8 @@ or
 .... sub point a  
 .... sub point b  
 
-So replace ^^ with tab to convert to outline format, and  
-replace tab with ^^ to convert to Markdown.
+So replace ^^ or __with tab to convert to outline format, and  
+replace tab with ^^ or __ to convert to Markdown.
 
 Of course, this does not need to be in the markdown or Multimarkdown OR Critic spec because they don't need a parser to change back and forth. No parsing is necessary, only search and replace with any text editor.
 
@@ -103,5 +103,5 @@ test OL.txt  (contains tabs)
 test MD.txt (contains ^^) or  
 test MMD.txt (contains ^^)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzM5MDEzOF19
+eyJoaXN0b3J5IjpbLTE4NjgyMjczMjRdfQ==
 -->
