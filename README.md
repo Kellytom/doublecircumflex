@@ -105,6 +105,10 @@ PS. To keep versions straight, "OL" can be added to the end of the filename for 
 test OL.txt  (contains tabs)  
 test MD.txt (contains ^^) or  
 test MMD.txt (contains ^^)
+
+***
+
+These same ideas can be used with anything that includes many indents
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTczMTk2NCw1ODM5ODA2NV19
+eyJoaXN0b3J5IjpbLTEzMzY2OTA4NjMsNTgzOTgwNjVdfQ==
 -->
