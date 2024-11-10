@@ -1,6 +1,8 @@
 # Double circumflex
 
-## Proposing to reserve special characters "^^". Use them to replace tabs in outlines. See Taskpaper
+## Proposing to reserve special characters "^^". Use them to replace tabs in outlines. See Taskpaper. 
+
+Taskpaper
 
 #### From outline to plaintext and back.
 
@@ -103,5 +105,5 @@ test OL.txt  (contains tabs)
 test MD.txt (contains ^^) or  
 test MMD.txt (contains ^^)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4Mzg4MTAyMl19
+eyJoaXN0b3J5IjpbNTgzOTgwNjVdfQ==
 -->
