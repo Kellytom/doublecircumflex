@@ -39,14 +39,14 @@ RESERVED markdown characters:
 
 RESERVED punctuation, HTML and web characters:
 
-> !, @, /, $, %, &, -, _, +, =, <>, :, ;, quotes
+> !, @, /, $, %, &, -, +, =, <>, :, ;, quotes
 
 > {} are used in critic markup  
 > ~ is used in latex  
 > ^ Circumflex is used in math formulae.
 
 That leave these possible single characters:  
-`^, ~` These are OK for my personal use, but will break if someone uses latex or math equations. (I use the `~` symbol personally sometimes when writing about tao, tai chi and human philosophy in general.)
+`^, ~, _` These are OK for my personal use, but will break if someone uses latex or math equations. (I use the `~` symbol personally sometimes when writing about tao, tai chi and human philosophy in general.)
 
 #### The next option is two or more characters:  
 
@@ -102,5 +102,5 @@ test OL.txt  (contains tabs)
 test MD.txt (contains ^^) or  
 test MMD.txt (contains ^^)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODYyODE3NzRdfQ==
+eyJoaXN0b3J5IjpbLTE2NTQ4Njk0NzRdfQ==
 -->
