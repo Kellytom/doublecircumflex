@@ -1,7 +1,7 @@
 # Double circumflex
 
 ## Proposing to reserve special characters "^^" or "__" . Use them to replace tabs in outlines. See Taskpaper. 
-## This same substitution Might be used to solve the blank line before and after HTML in a markdown document problem as well. 
+## This same substitution Might be used to solve the problem of needing blank lines before and after HTML in a markdown document  as well. 
 
 Taskpaper
 
@@ -112,5 +112,5 @@ These same ideas can be used with anything that includes many indents or tabs.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDExNDI5Nyw1ODM5ODA2NV19
+eyJoaXN0b3J5IjpbMTAwNTUwNTI2NSw1ODM5ODA2NV19
 -->
