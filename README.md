@@ -52,7 +52,8 @@ That leave these possible single characters:
 
 The best options to investigate seem to be:
 > ~~ or  
-^^  
+^^  or
+__
 
 
 (All possible combinations are not completely investigated here. I start with double characters because they are easier to type and recognize in a body of text.)
@@ -71,9 +72,9 @@ critic markup already uses:
 
 > Addition {++ ++}  
 
-That leaves ^^ for outline.
+That leaves ^^ or __ for outline.
 
-#### The double circumflex seems to be the best option left for a two character marker for tab.
+#### The double circumflex or double seems to be the best option left for a two character marker for tab.
 
 Example Outline:  
 
@@ -102,5 +103,5 @@ test OL.txt  (contains tabs)
 test MD.txt (contains ^^) or  
 test MMD.txt (contains ^^)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQ4Njk0NzRdfQ==
+eyJoaXN0b3J5IjpbMTc2MzM5MDEzOF19
 -->
